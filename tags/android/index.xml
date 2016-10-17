@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deniz Veli | The Modern Ink</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/android/index.xml</link>
+    <description>Recent content on Deniz Veli | The Modern Ink</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Deniz Veli 2016</copyright>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Etsy Local Goes Mobile</title>
+      <link>http://replace-this-with-your-hugo-site.com/_posts/etsy-local-goes-mobile/</link>
+      <pubDate>Tue, 01 Sep 2015 05:15:43 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/_posts/etsy-local-goes-mobile/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/img/wp-uploads/2015/09/Etsy-Local_Blog.jpg&#34; alt=&#34;Etsy Local&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Last week my anxiety and anticipation was building, as a whole lot of work from a great team of individuals I lead at Etsy was just about to be released to the world. And that feeling is exactly what I get out of bed and go to work for.&lt;/p&gt;
+
+&lt;p&gt;And then we launched the all new Etsy Local home screen tab on the Etsy app the iOS and Android!&lt;/p&gt;
+
+&lt;p&gt;With Etsy Local you can find Etsy items and sellers near you, at events like pop-ups, craft fairs, and flea markets or local shops. Etsy sellers can add events like craft fairs and markets that they are selling at, and retailers that are part of Etsy Wholesale can have their brick-and-mortar stores included on Etsy Local as well.&lt;/p&gt;
+
+&lt;p&gt;While I&amp;rsquo;ve been working on Etsy Local for most of this year, it&amp;rsquo;s with great excitement that I share the release of our new browsable Local experience in the Etsy app.&lt;/p&gt;
+
+&lt;p&gt;I think it&amp;rsquo;s a great way to discover new sellers  and a great new channel for sellers to be found on Etsy, all while supporting the growth of local small businesses through commerce.&lt;/p&gt;
+
+&lt;p&gt;You can read more about the launch from my colleague Johanna Beyenbach, over on the &lt;a href=&#34;http://etsy.me/1fT1oAe&#34;&gt;Etsy blog&lt;/a&gt;. You can find local stores and events happening in your neighborhood in the latest version of the Etsy shopping app, available on the &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.etsy.android&#34;&gt;Google Play Store&lt;/a&gt; and &lt;a href=&#34;https://itunes.apple.com/us/app/etsy/id477128284?mt=8&#34;&gt;Apple App Store&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beautiful Android Design</title>
+      <link>http://replace-this-with-your-hugo-site.com/_posts/beautiful-android-design/</link>
+      <pubDate>Sat, 28 Dec 2013 07:04:43 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/_posts/beautiful-android-design/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://android-developers.blogspot.com.au/2013/12/beautiful-design-collection-winter-2013.html&#34;&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/img/wp-uploads/2013/12/Screen-Shot-2013-12-28-at-1.43.48-AM.png&#34; alt=&#34;Android Beautiful Design&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m super excited and very honored that Google recently placed our latest Etsy Android app on a very short list of the best Android apps released this season.&lt;/p&gt;
+
+&lt;p&gt;You can read more over on the &lt;a href=&#34;http://android-developers.blogspot.com.au/2013/12/beautiful-design-collection-winter-2013.html&#34;&gt;Android Developers blog&lt;/a&gt; and if you haven&amp;rsquo;t yet been shopping on the new &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.etsy.android&#34;&gt;Etsy for Android&lt;/a&gt; app on your tablet or phone, this might be just the reminder you need.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Etsy Android Staggered Grid</title>
+      <link>http://replace-this-with-your-hugo-site.com/_posts/etsy-android-staggered-grid/</link>
+      <pubDate>Fri, 27 Dec 2013 22:13:24 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/_posts/etsy-android-staggered-grid/</guid>
+      <description>&lt;p&gt;Last week at Etsy we open sourced the staggered grid view from the new Etsy Android app. Somewhat surprisingly there&amp;rsquo;s been a large amount of interest from the Android community. I guess I shouldn&amp;rsquo;t be surprised. Whilst working on various apps I&amp;rsquo;ve found it challenging to implement advanced UI elements such as the staggered or masonry grid.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github-camo.global.ssl.fastly.net/a243ad5c2788730c40fc1d348e5ed85adb59c484/687474703a2f2f662e636c2e6c792f6974656d732f327a31423059304d3047304f326b316c334a30332f5472656e64696e672e706e67&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thankfully I had the opportunity during a recent project at Etsy to implement this grid view that would support advanced features such as rows of varying heights &amp;amp; syncing row positions across orientation changes. Before deciding to develop the grid, we did of course evaluate existing options available including the unfinished StaggeredGridView in the AOSP source. In the end we came to the conclusion that if we were going to build something stable, reliable and performant it was a necessity to understand the entire scope of how the grid functioned and to achieve that we decided to develop a new component.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m quite happy with the results. The grid was developed over the course of two weeks. During the project we tested the grid on a number of devices available in our awesome &lt;a href=&#34;http://codeascraft.com/2013/08/09/mobile-device-lab/&#34;&gt;Etsy Device Lab&lt;/a&gt;. We also found and fixed a couple of issues with the grid post launch using live crash logs.&lt;/p&gt;
+
+&lt;p&gt;Finally after open sourcing the grid, we&amp;rsquo;ve promoted release artifacts for the initial version to Maven Central, and will maintain releases here ongoing. So now it&amp;rsquo;s a simple one-liner to add the AndroidStaggeredGrid to your project. Big thanks here go to Chris Banes for his helpful &lt;a href=&#34;https://github.com/chrisbanes/gradle-mvn-push&#34;&gt;Gradle plugin&lt;/a&gt; for uploading Android Artifacts to Maven.&lt;/p&gt;
+
+&lt;p&gt;You can find out more, how the grid is used and also run the sample app over on the Etsy Github - &lt;a href=&#34;https://github.com/etsy/AndroidStaggeredGrid&#34;&gt;https://github.com/etsy/AndroidStaggeredGrid&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dash 1.3 is out</title>
+      <link>http://replace-this-with-your-hugo-site.com/_posts/dash-1-3-is-out/</link>
+      <pubDate>Sat, 03 Aug 2013 04:40:47 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/_posts/dash-1-3-is-out/</guid>
+      <description>&lt;p&gt;Yep it&amp;rsquo;s here! This long awaited release of Dash for App.net brings support for private messages.&lt;/p&gt;
+
+&lt;p&gt;You can now chat privately with all your App.net followers, anytime, anywhere.&lt;/p&gt;
+
+&lt;p&gt;Better yet existing Dash Plus features such as push notifications for mentions and background updates of streams are now totally free for all. That&amp;rsquo;s pretty big news for all you Android App.net fans out there. I&amp;rsquo;ll be expanding push notifications in the coming weeks to support private messages and more. So stayed tuned.&lt;/p&gt;
+
+&lt;p&gt;Dash v1.3 is rolling out now. &lt;a href=&#34;http://bit.ly/getdash&#34;&gt;Go on. Try it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[gallery type=&amp;ldquo;slideshow&amp;rdquo; link=&amp;ldquo;file&amp;rdquo; ids=&amp;ldquo;343,344,346,347,345,348&amp;rdquo;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solving Solved Problems</title>
+      <link>http://replace-this-with-your-hugo-site.com/_posts/action-bar-compat/</link>
+      <pubDate>Mon, 29 Jul 2013 03:35:13 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/_posts/action-bar-compat/</guid>
+      <description>&lt;p&gt;Last week Google simultaneously announced and released &lt;a href=&#34;http://developer.android.com/about/versions/android-4.3.html&#34;&gt;Android 4.3&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The release included a number of new features to the platform plus performance improvements. For developers it brings a number of new API&amp;rsquo;s. They also updated system images, build tools and the &lt;a href=&#34;http://developer.android.com/tools/support-library/index.html&#34;&gt;Android support library&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The support library exists to bring backwards-compatible support to API&amp;rsquo;s introduced in new Android versions.&lt;/p&gt;
+
+&lt;p&gt;Most notably this latest support library update included a new &lt;a href=&#34;http://developer.android.com/reference/android/support/v7/app/ActionBar.html&#34;&gt;ActionBar&lt;/a&gt; class which allows developers to bring backwards compatible support for the ActionBar, introduced in Android 3.0 (Feb 24th 2011), to Android 2.1+.&lt;/p&gt;
+
+&lt;p&gt;But here in lies the problem. An extremely popular, globally used and well supported library already exists to solve this problem - see &lt;a href=&#34;http://actionbarsherlock.com/&#34;&gt;ActionBarSherlock&lt;/a&gt;. I use it for Dash, at Etsy, and in most of the other apps I&amp;rsquo;ve worked on. I know other large tech startups use it (Square, GitHub, Foursquare) and even Google themselves included ActionBarSherlock in their 2012 Google I/O app.&lt;/p&gt;
+
+&lt;p&gt;Now that we&amp;rsquo;re halfway through 2013, instead of solving a solved problem, Google could have taken the opportunity to include support for new Android 4.3 API&amp;rsquo;s in the support library. Like the awesome new &lt;a href=&#34;http://developer.android.com/about/versions/android-4.3.html#UI&#34;&gt;ViewOverlay&lt;/a&gt; or Optical Bounds Layouts.&lt;/p&gt;
+
+&lt;p&gt;This would help solve an unsolved problem, the bittersweet situation after each Android platform release where we developers realise it&amp;rsquo;ll be a long time before we can use any of the new features annouced.&lt;/p&gt;
+
+&lt;p&gt;Maybe the best Google can do when it comes to compatibility is a 2 year timeframe? Guess we&amp;rsquo;ll have to wait and see.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dash 1.0 for App.net</title>
+      <link>http://replace-this-with-your-hugo-site.com/_posts/dash-1-0-for-app-net/</link>
+      <pubDate>Thu, 01 Nov 2012 06:05:57 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/_posts/dash-1-0-for-app-net/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/img/wp-uploads/2012/11/featuregraphic_square1.png&#34;&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/img/wp-uploads/2012/11/featuregraphic_square1.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Over the last few weeks, while working on bringing the latest and greatest features to Hooha, I&amp;rsquo;ve kept a constant focus on user feedback.&lt;/p&gt;
+
+&lt;p&gt;The biggest piece of feedback received was &amp;ldquo;Love the app, hate the name&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;I felt this update released today, which brings the app out of beta, was an appropriate time to spend some effort on the brand. Working together with my good friend &lt;a href=&#34;http://simmple.com.au/&#34;&gt;Toby Simm (Simmple) &lt;/a&gt;on branding and graphic design, I&amp;rsquo;m pleased to bring the new and improved Dash for App.net.&lt;/p&gt;
+
+&lt;p&gt;Dash is all about speed. It&amp;rsquo;s quick and simple to get in and share with your friends. Share a photo, your location or just a short message.&lt;/p&gt;
+
+&lt;p&gt;Dash is about effortlessly staying up to date. That&amp;rsquo;s why Dash Plus brings you push notifications for your mentions and background updates. You can upgrade to Dash Plus for just 1.99 via in-app purchase.&lt;/p&gt;
+
+&lt;p&gt;Dash is quickly finding what you want, by searching for a user or a hashtag. And never losing your favourites, just star a post or a hashtag to have it saved on your device.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s so much new to Dash 1.0. I really hope you love the app, and love the name.&lt;/p&gt;
+
+&lt;p&gt;Follow &lt;a href=&#34;https://alpha.app.net/dashapp&#34;&gt;@dashapp&lt;/a&gt; on ADN today to stay up to date with all the latest app news.&lt;/p&gt;
+
+&lt;p&gt;Full release notes are below:&lt;/p&gt;
+
+&lt;p&gt;[gallery link=&amp;ldquo;file&amp;rdquo; columns=&amp;ldquo;2&amp;rdquo; type=&amp;ldquo;slideshow&amp;rdquo; ids=&amp;ldquo;194,195,196,197,198,199,202&amp;rdquo;]&lt;/p&gt;
+
+&lt;p&gt;v1.0&lt;/p&gt;
+
+&lt;p&gt;★ New name - Dash is your new best mate.
+★ New &amp;amp; improved UI!
+★ View &amp;amp; share photo&amp;rsquo;s and locations.
+★ Search for users &amp;amp; hastags.&lt;/p&gt;
+
+&lt;p&gt;Upgrade to &amp;ldquo;Dash Plus&amp;rdquo; via in app purchase (1.99) to get:
+★ Push notifications for mentions.
+★ Background updates for your stream, mentions &amp;amp; global.&lt;/p&gt;
+
+&lt;p&gt;Want more?&lt;/p&gt;
+
+&lt;p&gt;★ View stars and reposts for a particular post.
+★ Stream, mentions &amp;amp; global now save scroll position.
+★ Load missing posts &amp;amp; refresh threads.
+★ Repost has the option to &amp;ldquo;Repost&amp;rdquo; or &amp;ldquo;Quote&amp;rdquo;.
+★ Option to view a unified stream.
+★ Improved image loading and scrolling speeds.
+★ Redesigned login and authentication flow.
+★ Share photo&amp;rsquo;s to Dash from other apps.
+★ Lots, lots more&amp;hellip;
+&lt;a href=&#34;http://play.google.com/store/apps/details?id=com.themodernink.hooha&#34;&gt;&lt;img src=&#34;http://www.android.com/images/brand/get_it_on_play_logo_large.png&#34; alt=&#34;Get it on Google Play&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
