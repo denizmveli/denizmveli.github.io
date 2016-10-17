@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deniz Veli | The Modern Ink</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/app.net/index.xml</link>
+    <link>http://denizmveli.github.io/tags/app.net/index.xml</link>
     <description>Recent content on Deniz Veli | The Modern Ink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Deniz Veli 2016</copyright>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/tags/app.net/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://denizmveli.github.io/tags/app.net/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dash 1.3 is out</title>
-      <link>http://replace-this-with-your-hugo-site.com/_posts/dash-1-3-is-out/</link>
+      <link>http://denizmveli.github.io/_posts/dash-1-3-is-out/</link>
       <pubDate>Sat, 03 Aug 2013 04:40:47 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/_posts/dash-1-3-is-out/</guid>
+      <guid>http://denizmveli.github.io/_posts/dash-1-3-is-out/</guid>
       <description>&lt;p&gt;Yep it&amp;rsquo;s here! This long awaited release of Dash for App.net brings support for private messages.&lt;/p&gt;
 
 &lt;p&gt;You can now chat privately with all your App.net followers, anytime, anywhere.&lt;/p&gt;
@@ -29,11 +29,11 @@
     
     <item>
       <title>Dash 1.0 for App.net</title>
-      <link>http://replace-this-with-your-hugo-site.com/_posts/dash-1-0-for-app-net/</link>
+      <link>http://denizmveli.github.io/_posts/dash-1-0-for-app-net/</link>
       <pubDate>Thu, 01 Nov 2012 06:05:57 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/_posts/dash-1-0-for-app-net/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/img/wp-uploads/2012/11/featuregraphic_square1.png&#34;&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/img/wp-uploads/2012/11/featuregraphic_square1.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <guid>http://denizmveli.github.io/_posts/dash-1-0-for-app-net/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://denizmveli.github.io/img/wp-uploads/2012/11/featuregraphic_square1.png&#34;&gt;&lt;img src=&#34;http://denizmveli.github.io/img/wp-uploads/2012/11/featuregraphic_square1.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Over the last few weeks, while working on bringing the latest and greatest features to Hooha, I&amp;rsquo;ve kept a constant focus on user feedback.&lt;/p&gt;
 

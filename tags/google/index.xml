@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deniz Veli | The Modern Ink</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/google/index.xml</link>
+    <link>http://denizmveli.github.io/tags/google/index.xml</link>
     <description>Recent content on Deniz Veli | The Modern Ink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Deniz Veli 2016</copyright>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://denizmveli.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Solving Solved Problems</title>
-      <link>http://replace-this-with-your-hugo-site.com/_posts/action-bar-compat/</link>
+      <link>http://denizmveli.github.io/_posts/action-bar-compat/</link>
       <pubDate>Mon, 29 Jul 2013 03:35:13 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/_posts/action-bar-compat/</guid>
+      <guid>http://denizmveli.github.io/_posts/action-bar-compat/</guid>
       <description>&lt;p&gt;Last week Google simultaneously announced and released &lt;a href=&#34;http://developer.android.com/about/versions/android-4.3.html&#34;&gt;Android 4.3&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The release included a number of new features to the platform plus performance improvements. For developers it brings a number of new API&amp;rsquo;s. They also updated system images, build tools and the &lt;a href=&#34;http://developer.android.com/tools/support-library/index.html&#34;&gt;Android support library&lt;/a&gt;.&lt;/p&gt;

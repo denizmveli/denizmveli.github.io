@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deniz Veli | The Modern Ink</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/open-source/index.xml</link>
+    <link>http://denizmveli.github.io/tags/open-source/index.xml</link>
     <description>Recent content on Deniz Veli | The Modern Ink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Deniz Veli 2016</copyright>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://denizmveli.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Etsy Android Staggered Grid</title>
-      <link>http://replace-this-with-your-hugo-site.com/_posts/etsy-android-staggered-grid/</link>
+      <link>http://denizmveli.github.io/_posts/etsy-android-staggered-grid/</link>
       <pubDate>Fri, 27 Dec 2013 22:13:24 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/_posts/etsy-android-staggered-grid/</guid>
+      <guid>http://denizmveli.github.io/_posts/etsy-android-staggered-grid/</guid>
       <description>&lt;p&gt;Last week at Etsy we open sourced the staggered grid view from the new Etsy Android app. Somewhat surprisingly there&amp;rsquo;s been a large amount of interest from the Android community. I guess I shouldn&amp;rsquo;t be surprised. Whilst working on various apps I&amp;rsquo;ve found it challenging to implement advanced UI elements such as the staggered or masonry grid.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github-camo.global.ssl.fastly.net/a243ad5c2788730c40fc1d348e5ed85adb59c484/687474703a2f2f662e636c2e6c792f6974656d732f327a31423059304d3047304f326b316c334a30332f5472656e64696e672e706e67&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
