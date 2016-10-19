@@ -1,1 +1,0 @@
-# denizmveli.github.io
