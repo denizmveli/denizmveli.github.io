@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deniz Veli | The Modern Ink</title>
-    <link>https://denizmveli.github.io/tags/google/index.xml</link>
-    <description>Recent content on Deniz Veli | The Modern Ink</description>
+    <title>Google on Deniz Veli | The Modern Ink</title>
+    <link>https://denizmveli.github.io/tags/google/</link>
+    <description>Recent content in Google on Deniz Veli | The Modern Ink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Deniz Veli 2016</copyright>
-    <atom:link href="https://denizmveli.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jul 2013 03:35:13 +0000</lastBuildDate>
+    
+	<atom:link href="https://denizmveli.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Solving Solved Problems</title>
@@ -15,22 +18,10 @@
       <pubDate>Mon, 29 Jul 2013 03:35:13 +0000</pubDate>
       
       <guid>https://denizmveli.github.io/action-bar-compat/</guid>
-      <description>&lt;p&gt;Last week Google simultaneously announced and released &lt;a href=&#34;http://developer.android.com/about/versions/android-4.3.html&#34;&gt;Android 4.3&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The release included a number of new features to the platform plus performance improvements. For developers it brings a number of new API&amp;rsquo;s. They also updated system images, build tools and the &lt;a href=&#34;http://developer.android.com/tools/support-library/index.html&#34;&gt;Android support library&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The support library exists to bring backwards-compatible support to API&amp;rsquo;s introduced in new Android versions.&lt;/p&gt;
-
-&lt;p&gt;Most notably this latest support library update included a new &lt;a href=&#34;http://developer.android.com/reference/android/support/v7/app/ActionBar.html&#34;&gt;ActionBar&lt;/a&gt; class which allows developers to bring backwards compatible support for the ActionBar, introduced in Android 3.0 (Feb 24th 2011), to Android 2.1+.&lt;/p&gt;
-
-&lt;p&gt;But here in lies the problem. An extremely popular, globally used and well supported library already exists to solve this problem - see &lt;a href=&#34;http://actionbarsherlock.com/&#34;&gt;ActionBarSherlock&lt;/a&gt;. I use it for Dash, at Etsy, and in most of the other apps I&amp;rsquo;ve worked on. I know other large tech startups use it (Square, GitHub, Foursquare) and even Google themselves included ActionBarSherlock in their 2012 Google I/O app.&lt;/p&gt;
-
-&lt;p&gt;Now that we&amp;rsquo;re halfway through 2013, instead of solving a solved problem, Google could have taken the opportunity to include support for new Android 4.3 API&amp;rsquo;s in the support library. Like the awesome new &lt;a href=&#34;http://developer.android.com/about/versions/android-4.3.html#UI&#34;&gt;ViewOverlay&lt;/a&gt; or Optical Bounds Layouts.&lt;/p&gt;
-
-&lt;p&gt;This would help solve an unsolved problem, the bittersweet situation after each Android platform release where we developers realise it&amp;rsquo;ll be a long time before we can use any of the new features annouced.&lt;/p&gt;
-
-&lt;p&gt;Maybe the best Google can do when it comes to compatibility is a 2 year timeframe? Guess we&amp;rsquo;ll have to wait and see.&lt;/p&gt;
-</description>
+      <description>Last week Google simultaneously announced and released Android 4.3.
+The release included a number of new features to the platform plus performance improvements. For developers it brings a number of new API&amp;rsquo;s. They also updated system images, build tools and the Android support library.
+The support library exists to bring backwards-compatible support to API&amp;rsquo;s introduced in new Android versions.
+Most notably this latest support library update included a new ActionBar class which allows developers to bring backwards compatible support for the ActionBar, introduced in Android 3.</description>
     </item>
     
   </channel>

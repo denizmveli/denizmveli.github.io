@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deniz Veli | The Modern Ink</title>
-    <link>https://denizmveli.github.io/tags/app.net/index.xml</link>
-    <description>Recent content on Deniz Veli | The Modern Ink</description>
+    <title>App.net on Deniz Veli | The Modern Ink</title>
+    <link>https://denizmveli.github.io/tags/app.net/</link>
+    <description>Recent content in App.net on Deniz Veli | The Modern Ink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Deniz Veli 2016</copyright>
-    <atom:link href="https://denizmveli.github.io/tags/app.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Aug 2013 04:40:47 +0000</lastBuildDate>
+    
+	<atom:link href="https://denizmveli.github.io/tags/app.net/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Dash 1.3 is out</title>
@@ -15,14 +18,9 @@
       <pubDate>Sat, 03 Aug 2013 04:40:47 +0000</pubDate>
       
       <guid>https://denizmveli.github.io/dash-1-3-is-out/</guid>
-      <description>&lt;p&gt;Yep it&amp;rsquo;s here! This long awaited release of Dash for App.net brings support for private messages.&lt;/p&gt;
-
-&lt;p&gt;You can now chat privately with all your App.net followers, anytime, anywhere.&lt;/p&gt;
-
-&lt;p&gt;Better yet existing Dash Plus features such as push notifications for mentions and background updates of streams are now totally free for all. That&amp;rsquo;s pretty big news for all you Android App.net fans out there. I&amp;rsquo;ll be expanding push notifications in the coming weeks to support private messages and more. So stayed tuned.&lt;/p&gt;
-
-&lt;p&gt;Dash v1.3 is rolling out now. &lt;a href=&#34;http://bit.ly/getdash&#34;&gt;Go on. Try it&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Yep it&amp;rsquo;s here! This long awaited release of Dash for App.net brings support for private messages.
+You can now chat privately with all your App.net followers, anytime, anywhere.
+Better yet existing Dash Plus features such as push notifications for mentions and background updates of streams are now totally free for all. That&amp;rsquo;s pretty big news for all you Android App.net fans out there. I&amp;rsquo;ll be expanding push notifications in the coming weeks to support private messages and more.</description>
     </item>
     
     <item>
@@ -31,51 +29,9 @@
       <pubDate>Thu, 01 Nov 2012 06:05:57 +0000</pubDate>
       
       <guid>https://denizmveli.github.io/dash-1-0-for-app-net/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://denizmveli.github.io/img/wp-uploads/2012/11/featuregraphic_square1.png&#34;&gt;&lt;img src=&#34;https://denizmveli.github.io/img/wp-uploads/2012/11/featuregraphic_square1.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Over the last few weeks, while working on bringing the latest and greatest features to Hooha, I&amp;rsquo;ve kept a constant focus on user feedback.&lt;/p&gt;
-
-&lt;p&gt;The biggest piece of feedback received was &amp;ldquo;Love the app, hate the name&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;I felt this update released today, which brings the app out of beta, was an appropriate time to spend some effort on the brand. Working together with my good friend &lt;a href=&#34;http://simmple.com.au/&#34;&gt;Toby Simm (Simmple) &lt;/a&gt;on branding and graphic design, I&amp;rsquo;m pleased to bring the new and improved Dash for App.net.&lt;/p&gt;
-
-&lt;p&gt;Dash is all about speed. It&amp;rsquo;s quick and simple to get in and share with your friends. Share a photo, your location or just a short message.&lt;/p&gt;
-
-&lt;p&gt;Dash is about effortlessly staying up to date. That&amp;rsquo;s why Dash Plus brings you push notifications for your mentions and background updates. You can upgrade to Dash Plus for just 1.99 via in-app purchase.&lt;/p&gt;
-
-&lt;p&gt;Dash is quickly finding what you want, by searching for a user or a hashtag. And never losing your favourites, just star a post or a hashtag to have it saved on your device.&lt;/p&gt;
-
-&lt;p&gt;There&amp;rsquo;s so much new to Dash 1.0. I really hope you love the app, and love the name.&lt;/p&gt;
-
-&lt;p&gt;Follow &lt;a href=&#34;https://alpha.app.net/dashapp&#34;&gt;@dashapp&lt;/a&gt; on ADN today to stay up to date with all the latest app news.&lt;/p&gt;
-
-&lt;p&gt;Full release notes are below:&lt;/p&gt;
-
-&lt;p&gt;v1.0&lt;/p&gt;
-
-&lt;p&gt;★ New name - Dash is your new best mate.
-  ★ New &amp;amp; improved UI!
-  ★ View &amp;amp; share photo&amp;rsquo;s and locations.
-  ★ Search for users &amp;amp; hastags.&lt;/p&gt;
-
-&lt;p&gt;Upgrade to &amp;ldquo;Dash Plus&amp;rdquo; via in app purchase (1.99) to get:
-  ★ Push notifications for mentions.
-  ★ Background updates for your stream, mentions &amp;amp; global.&lt;/p&gt;
-
-&lt;p&gt;Want more?&lt;/p&gt;
-
-&lt;p&gt;★ View stars and reposts for a particular post.
-  ★ Stream, mentions &amp;amp; global now save scroll position.
-  ★ Load missing posts &amp;amp; refresh threads.
-  ★ Repost has the option to &amp;ldquo;Repost&amp;rdquo; or &amp;ldquo;Quote&amp;rdquo;.
-  ★ Option to view a unified stream.
-  ★ Improved image loading and scrolling speeds.
-  ★ Redesigned login and authentication flow.
-  ★ Share photo&amp;rsquo;s to Dash from other apps.
-  ★ Lots, lots more&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://play.google.com/store/apps/details?id=com.themodernink.hooha&#34;&gt;&lt;img src=&#34;http://www.android.com/images/brand/get_it_on_play_logo_large.png&#34; alt=&#34;Get it on Google Play&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Over the last few weeks, while working on bringing the latest and greatest features to Hooha, I&amp;rsquo;ve kept a constant focus on user feedback.
+The biggest piece of feedback received was &amp;ldquo;Love the app, hate the name&amp;rdquo;.
+I felt this update released today, which brings the app out of beta, was an appropriate time to spend some effort on the brand. Working together with my good friend Toby Simm (Simmple) on branding and graphic design, I&amp;rsquo;m pleased to bring the new and improved Dash for App.</description>
     </item>
     
   </channel>

@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deniz Veli | The Modern Ink</title>
-    <link>https://denizmveli.github.io/tags/open-source/index.xml</link>
-    <description>Recent content on Deniz Veli | The Modern Ink</description>
+    <title>Open Source on Deniz Veli | The Modern Ink</title>
+    <link>https://denizmveli.github.io/tags/open-source/</link>
+    <description>Recent content in Open Source on Deniz Veli | The Modern Ink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Deniz Veli 2016</copyright>
-    <atom:link href="https://denizmveli.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Dec 2013 22:13:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://denizmveli.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Etsy Android Staggered Grid</title>
@@ -15,18 +18,8 @@
       <pubDate>Fri, 27 Dec 2013 22:13:24 +0000</pubDate>
       
       <guid>https://denizmveli.github.io/etsy-android-staggered-grid/</guid>
-      <description>&lt;p&gt;Last week at Etsy we open sourced the staggered grid view from the new Etsy Android app. Somewhat surprisingly there&amp;rsquo;s been a large amount of interest from the Android community. I guess I shouldn&amp;rsquo;t be surprised. Whilst working on various apps I&amp;rsquo;ve found it challenging to implement advanced UI elements such as the staggered or masonry grid.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github-camo.global.ssl.fastly.net/a243ad5c2788730c40fc1d348e5ed85adb59c484/687474703a2f2f662e636c2e6c792f6974656d732f327a31423059304d3047304f326b316c334a30332f5472656e64696e672e706e67&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thankfully I had the opportunity during a recent project at Etsy to implement this grid view that would support advanced features such as rows of varying heights &amp;amp; syncing row positions across orientation changes. Before deciding to develop the grid, we did of course evaluate existing options available including the unfinished StaggeredGridView in the AOSP source. In the end we came to the conclusion that if we were going to build something stable, reliable and performant it was a necessity to understand the entire scope of how the grid functioned and to achieve that we decided to develop a new component.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m quite happy with the results. The grid was developed over the course of two weeks. During the project we tested the grid on a number of devices available in our awesome &lt;a href=&#34;http://codeascraft.com/2013/08/09/mobile-device-lab/&#34;&gt;Etsy Device Lab&lt;/a&gt;. We also found and fixed a couple of issues with the grid post launch using live crash logs.&lt;/p&gt;
-
-&lt;p&gt;Finally after open sourcing the grid, we&amp;rsquo;ve promoted release artifacts for the initial version to Maven Central, and will maintain releases here ongoing. So now it&amp;rsquo;s a simple one-liner to add the AndroidStaggeredGrid to your project. Big thanks here go to Chris Banes for his helpful &lt;a href=&#34;https://github.com/chrisbanes/gradle-mvn-push&#34;&gt;Gradle plugin&lt;/a&gt; for uploading Android Artifacts to Maven.&lt;/p&gt;
-
-&lt;p&gt;You can find out more, how the grid is used and also run the sample app over on the Etsy Github - &lt;a href=&#34;https://github.com/etsy/AndroidStaggeredGrid&#34;&gt;https://github.com/etsy/AndroidStaggeredGrid&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Last week at Etsy we open sourced the staggered grid view from the new Etsy Android app. Somewhat surprisingly there&amp;rsquo;s been a large amount of interest from the Android community. I guess I shouldn&amp;rsquo;t be surprised. Whilst working on various apps I&amp;rsquo;ve found it challenging to implement advanced UI elements such as the staggered or masonry grid.
+Thankfully I had the opportunity during a recent project at Etsy to implement this grid view that would support advanced features such as rows of varying heights &amp;amp; syncing row positions across orientation changes.</description>
     </item>
     
   </channel>

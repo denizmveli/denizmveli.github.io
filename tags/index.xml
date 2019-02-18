@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Deniz Veli | The Modern Ink</title>
+    <link>https://denizmveli.github.io/tags/</link>
+    <description>Recent content in Tags on Deniz Veli | The Modern Ink</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Deniz Veli 2016</copyright>
+    <lastBuildDate>Tue, 01 Sep 2015 05:15:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://denizmveli.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android</title>
+      <link>https://denizmveli.github.io/tags/android/</link>
+      <pubDate>Tue, 01 Sep 2015 05:15:43 +0000</pubDate>
+      
+      <guid>https://denizmveli.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App.net</title>
+      <link>https://denizmveli.github.io/tags/app.net/</link>
+      <pubDate>Sat, 03 Aug 2013 04:40:47 +0000</pubDate>
+      
+      <guid>https://denizmveli.github.io/tags/app.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dash</title>
+      <link>https://denizmveli.github.io/tags/dash/</link>
+      <pubDate>Sat, 03 Aug 2013 04:40:47 +0000</pubDate>
+      
+      <guid>https://denizmveli.github.io/tags/dash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etsy</title>
+      <link>https://denizmveli.github.io/tags/etsy/</link>
+      <pubDate>Tue, 01 Sep 2015 05:15:43 +0000</pubDate>
+      
+      <guid>https://denizmveli.github.io/tags/etsy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>https://denizmveli.github.io/tags/google/</link>
+      <pubDate>Mon, 29 Jul 2013 03:35:13 +0000</pubDate>
+      
+      <guid>https://denizmveli.github.io/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://denizmveli.github.io/tags/open-source/</link>
+      <pubDate>Fri, 27 Dec 2013 22:13:24 +0000</pubDate>
+      
+      <guid>https://denizmveli.github.io/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

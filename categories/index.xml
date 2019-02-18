@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Deniz Veli | The Modern Ink</title>
+    <link>https://denizmveli.github.io/categories/</link>
+    <description>Recent content in Categories on Deniz Veli | The Modern Ink</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Deniz Veli 2016</copyright>
+    
+	<atom:link href="https://denizmveli.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>General</title>
+      <link>https://denizmveli.github.io/categories/general/</link>
+      <pubDate>Tue, 01 Sep 2015 05:15:43 +0000</pubDate>
+      
+      <guid>https://denizmveli.github.io/categories/general/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

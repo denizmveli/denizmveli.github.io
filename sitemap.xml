@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://denizmveli.github.io/</loc>
-    <lastmod>2015-09-01T05:15:43+00:00</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://denizmveli.github.io/etsy-local-goes-mobile/</loc>
@@ -161,7 +157,72 @@
   </url>
   
   <url>
+    <loc>https://denizmveli.github.io/tags/android/</loc>
+    <lastmod>2015-09-01T05:15:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://denizmveli.github.io/tags/app.net/</loc>
+    <lastmod>2013-08-03T04:40:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://denizmveli.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://denizmveli.github.io/tags/dash/</loc>
+    <lastmod>2013-08-03T04:40:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://denizmveli.github.io/</loc>
+    <lastmod>2015-09-01T05:15:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://denizmveli.github.io/tags/etsy/</loc>
+    <lastmod>2015-09-01T05:15:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://denizmveli.github.io/categories/general/</loc>
+    <lastmod>2015-09-01T05:15:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://denizmveli.github.io/tags/google/</loc>
+    <lastmod>2013-07-29T03:35:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://denizmveli.github.io/tags/open-source/</loc>
+    <lastmod>2013-12-27T22:13:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://denizmveli.github.io/portfolio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://denizmveli.github.io/post/</loc>
+    <lastmod>2015-09-01T05:15:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://denizmveli.github.io/tags/</loc>
+    <lastmod>2015-09-01T05:15:43+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
