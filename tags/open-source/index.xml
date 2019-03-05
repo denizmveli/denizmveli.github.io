@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source on Deniz Veli | The Modern Ink</title>
-    <link>https://denizmveli.github.io/tags/open-source/</link>
+    <link>https://www.themodernink.com/tags/open-source/</link>
     <description>Recent content in Open Source on Deniz Veli | The Modern Ink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Deniz Veli 2016</copyright>
     <lastBuildDate>Fri, 27 Dec 2013 22:13:24 +0000</lastBuildDate>
     
-	<atom:link href="https://denizmveli.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.themodernink.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Etsy Android Staggered Grid</title>
-      <link>https://denizmveli.github.io/etsy-android-staggered-grid/</link>
+      <link>https://www.themodernink.com/etsy-android-staggered-grid/</link>
       <pubDate>Fri, 27 Dec 2013 22:13:24 +0000</pubDate>
       
-      <guid>https://denizmveli.github.io/etsy-android-staggered-grid/</guid>
+      <guid>https://www.themodernink.com/etsy-android-staggered-grid/</guid>
       <description>Last week at Etsy we open sourced the staggered grid view from the new Etsy Android app. Somewhat surprisingly there&amp;rsquo;s been a large amount of interest from the Android community. I guess I shouldn&amp;rsquo;t be surprised. Whilst working on various apps I&amp;rsquo;ve found it challenging to implement advanced UI elements such as the staggered or masonry grid.
 Thankfully I had the opportunity during a recent project at Etsy to implement this grid view that would support advanced features such as rows of varying heights &amp;amp; syncing row positions across orientation changes.</description>
     </item>
