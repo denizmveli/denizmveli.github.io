@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General on Deniz Veli | The Modern Ink</title>
-    <link>https://www.themodernink.com/categories/general/</link>
+    <link>http://www.themodernink.com/categories/general/</link>
     <description>Recent content in General on Deniz Veli | The Modern Ink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Deniz Veli 2016</copyright>
     <lastBuildDate>Tue, 01 Sep 2015 05:15:43 +0000</lastBuildDate>
     
-	<atom:link href="https://www.themodernink.com/categories/general/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.themodernink.com/categories/general/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Etsy Local Goes Mobile</title>
-      <link>https://www.themodernink.com/etsy-local-goes-mobile/</link>
+      <link>http://www.themodernink.com/etsy-local-goes-mobile/</link>
       <pubDate>Tue, 01 Sep 2015 05:15:43 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/etsy-local-goes-mobile/</guid>
+      <guid>http://www.themodernink.com/etsy-local-goes-mobile/</guid>
       <description>Last week my anxiety and anticipation was building, as a whole lot of work from a great team of individuals I lead at Etsy was just about to be released to the world. And that feeling is exactly what I get out of bed and go to work for.
 And then we launched the all new Etsy Local home screen tab on the Etsy app the iOS and Android!
 With Etsy Local you can find Etsy items and sellers near you, at events like pop-ups, craft fairs, and flea markets or local shops.</description>
@@ -25,10 +25,10 @@ With Etsy Local you can find Etsy items and sellers near you, at events like p
     
     <item>
       <title>Android &amp; Design at Etsy</title>
-      <link>https://www.themodernink.com/android-design-at-etsy/</link>
+      <link>http://www.themodernink.com/android-design-at-etsy/</link>
       <pubDate>Sun, 13 Apr 2014 22:24:12 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/android-design-at-etsy/</guid>
+      <guid>http://www.themodernink.com/android-design-at-etsy/</guid>
       <description>A few weeks ago my colleague Paul Lau and I gave a talk at the NYC Android Meetup. We wanted to share our Android teams product development process at Etsy. How we collaborate as designers and developers to be effective at product development while experimenting and pushing our app UX as much as we can.
   Etsy - Android &amp;amp; Design  from Deniz Veli 
 Our teams process is broken down into three parts each of which involve multiple iterations:</description>
@@ -36,49 +36,49 @@ Our teams process is broken down into three parts each of which involve multiple
     
     <item>
       <title>Beautiful Android Design</title>
-      <link>https://www.themodernink.com/beautiful-android-design/</link>
+      <link>http://www.themodernink.com/beautiful-android-design/</link>
       <pubDate>Sat, 28 Dec 2013 07:04:43 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/beautiful-android-design/</guid>
+      <guid>http://www.themodernink.com/beautiful-android-design/</guid>
       <description>I&amp;rsquo;m super excited and very honored that Google recently placed our latest Etsy Android app on a very short list of the best Android apps released this season.
 You can read more over on the Android Developers blog and if you haven&amp;rsquo;t yet been shopping on the new Etsy for Android app on your tablet or phone, this might be just the reminder you need.</description>
     </item>
     
     <item>
       <title>Etsy Android Staggered Grid</title>
-      <link>https://www.themodernink.com/etsy-android-staggered-grid/</link>
+      <link>http://www.themodernink.com/etsy-android-staggered-grid/</link>
       <pubDate>Fri, 27 Dec 2013 22:13:24 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/etsy-android-staggered-grid/</guid>
+      <guid>http://www.themodernink.com/etsy-android-staggered-grid/</guid>
       <description>Last week at Etsy we open sourced the staggered grid view from the new Etsy Android app. Somewhat surprisingly there&amp;rsquo;s been a large amount of interest from the Android community. I guess I shouldn&amp;rsquo;t be surprised. Whilst working on various apps I&amp;rsquo;ve found it challenging to implement advanced UI elements such as the staggered or masonry grid.
 Thankfully I had the opportunity during a recent project at Etsy to implement this grid view that would support advanced features such as rows of varying heights &amp;amp; syncing row positions across orientation changes.</description>
     </item>
     
     <item>
       <title>It&#39;s all in the details</title>
-      <link>https://www.themodernink.com/its-all-in-the-details/</link>
+      <link>http://www.themodernink.com/its-all-in-the-details/</link>
       <pubDate>Sun, 17 Nov 2013 14:56:09 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/its-all-in-the-details/</guid>
+      <guid>http://www.themodernink.com/its-all-in-the-details/</guid>
       <description>littlebigdetails.com A great catalogue of the tiny design details that can make a big difference to a users experience.</description>
     </item>
     
     <item>
       <title>All-New Etsy for Android App</title>
-      <link>https://www.themodernink.com/all-new-etsy-android-app/</link>
+      <link>http://www.themodernink.com/all-new-etsy-android-app/</link>
       <pubDate>Sun, 10 Nov 2013 20:40:53 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/all-new-etsy-android-app/</guid>
+      <guid>http://www.themodernink.com/all-new-etsy-android-app/</guid>
       <description>I am extremely excited and proud of the newly revamped and completely redesigned Etsy Android app which we rolled out to the public over the weekend.
 After joining Etsy earlier this year our team set out on a project to bring the best of Android to the Etsy app. This included designing and building an app that was not only beautiful across multiple form factors, from phones to 7 &amp;amp; 10 inch tablets, but also included optimized screens for each.</description>
     </item>
     
     <item>
       <title>Vodafone Usage Unpublished</title>
-      <link>https://www.themodernink.com/vodafone-usage-unpublished/</link>
+      <link>http://www.themodernink.com/vodafone-usage-unpublished/</link>
       <pubDate>Wed, 28 Aug 2013 00:48:08 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/vodafone-usage-unpublished/</guid>
+      <guid>http://www.themodernink.com/vodafone-usage-unpublished/</guid>
       <description>I have decided after much consideration to discontinue any further development and support of both the free and paid versions of the Vodafone Usage Android app.
 A recent change by Vodafone to their website has meant that the app is no longer functioning. As I&amp;rsquo;m no longer living in Australia or a Vodafone customer myself it&amp;rsquo;s become near impossible to provide support or further updates to the app.
 At the same time, since I originally built the app over 3 years ago, Vodafone have themselves come to the Android party and develop their own usage meter app.</description>
@@ -86,10 +86,10 @@ At the same time, since I originally built the app over 3 years ago, Vodafone ha
     
     <item>
       <title>Dash 1.3 is out</title>
-      <link>https://www.themodernink.com/dash-1-3-is-out/</link>
+      <link>http://www.themodernink.com/dash-1-3-is-out/</link>
       <pubDate>Sat, 03 Aug 2013 04:40:47 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/dash-1-3-is-out/</guid>
+      <guid>http://www.themodernink.com/dash-1-3-is-out/</guid>
       <description>Yep it&amp;rsquo;s here! This long awaited release of Dash for App.net brings support for private messages.
 You can now chat privately with all your App.net followers, anytime, anywhere.
 Better yet existing Dash Plus features such as push notifications for mentions and background updates of streams are now totally free for all. That&amp;rsquo;s pretty big news for all you Android App.net fans out there. I&amp;rsquo;ll be expanding push notifications in the coming weeks to support private messages and more.</description>
@@ -97,10 +97,10 @@ Better yet existing Dash Plus features such as push notifications for mentions a
     
     <item>
       <title>Solving Solved Problems</title>
-      <link>https://www.themodernink.com/action-bar-compat/</link>
+      <link>http://www.themodernink.com/action-bar-compat/</link>
       <pubDate>Mon, 29 Jul 2013 03:35:13 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/action-bar-compat/</guid>
+      <guid>http://www.themodernink.com/action-bar-compat/</guid>
       <description>Last week Google simultaneously announced and released Android 4.3.
 The release included a number of new features to the platform plus performance improvements. For developers it brings a number of new API&amp;rsquo;s. They also updated system images, build tools and the Android support library.
 The support library exists to bring backwards-compatible support to API&amp;rsquo;s introduced in new Android versions.
@@ -109,10 +109,10 @@ Most notably this latest support library update included a new ActionBar class w
     
     <item>
       <title>Dash 1.0 for App.net</title>
-      <link>https://www.themodernink.com/dash-1-0-for-app-net/</link>
+      <link>http://www.themodernink.com/dash-1-0-for-app-net/</link>
       <pubDate>Thu, 01 Nov 2012 06:05:57 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/dash-1-0-for-app-net/</guid>
+      <guid>http://www.themodernink.com/dash-1-0-for-app-net/</guid>
       <description>Over the last few weeks, while working on bringing the latest and greatest features to Hooha, I&amp;rsquo;ve kept a constant focus on user feedback.
 The biggest piece of feedback received was &amp;ldquo;Love the app, hate the name&amp;rdquo;.
 I felt this update released today, which brings the app out of beta, was an appropriate time to spend some effort on the brand. Working together with my good friend Toby Simm (Simmple) on branding and graphic design, I&amp;rsquo;m pleased to bring the new and improved Dash for App.</description>
@@ -120,10 +120,10 @@ I felt this update released today, which brings the app out of beta, was an appr
     
     <item>
       <title>Hooha Update</title>
-      <link>https://www.themodernink.com/hooha-update/</link>
+      <link>http://www.themodernink.com/hooha-update/</link>
       <pubDate>Wed, 05 Sep 2012 11:55:31 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/hooha-update/</guid>
+      <guid>http://www.themodernink.com/hooha-update/</guid>
       <description>It&amp;rsquo;s been a big couple of weeks for Hooha.
 Last week Hooha for App.net was released to Google Play, making it the first native mobile app for App.net on any app store. Say that a few times quickly.
 Unexpectedly this resulted in a little bit of media coverage.
@@ -134,10 +134,10 @@ The Guardian mentioned Hooha in it&amp;rsquo;s 20 Best Android apps of the week�
     
     <item>
       <title>Hooha for App.net released on Google Play</title>
-      <link>https://www.themodernink.com/hooha-for-app-net-released-on-google-play/</link>
+      <link>http://www.themodernink.com/hooha-for-app-net-released-on-google-play/</link>
       <pubDate>Sun, 26 Aug 2012 08:13:55 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/hooha-for-app-net-released-on-google-play/</guid>
+      <guid>http://www.themodernink.com/hooha-for-app-net-released-on-google-play/</guid>
       <description>Hooha (formally Jive), a new App.net client built for the community from the ground up is now available for download from Google Play.
 Hooha is a beautiful yet simple, minimalistic app designed for readability, while making posting and sharing on App.net from your Android device a piece of cake.
 
@@ -146,10 +146,10 @@ What&amp;rsquo;s App.net? It&amp;rsquo;s a different kind of social platform. A 
     
     <item>
       <title>Say hello to Jive</title>
-      <link>https://www.themodernink.com/say-hello-to-jive/</link>
+      <link>http://www.themodernink.com/say-hello-to-jive/</link>
       <pubDate>Sat, 18 Aug 2012 03:25:16 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/say-hello-to-jive/</guid>
+      <guid>http://www.themodernink.com/say-hello-to-jive/</guid>
       <description>UPDATE: Jive is no more. Our renamed app Hooha is now available on Google Play.
 Say hello to Jive, a brand new Android app for the brand new platform App.net.
 
@@ -160,10 +160,10 @@ Things Jive can do:
     
     <item>
       <title>My Parx comes to Android</title>
-      <link>https://www.themodernink.com/my-parx-comes-to-android/</link>
+      <link>http://www.themodernink.com/my-parx-comes-to-android/</link>
       <pubDate>Tue, 12 Jun 2012 12:57:28 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/my-parx-comes-to-android/</guid>
+      <guid>http://www.themodernink.com/my-parx-comes-to-android/</guid>
       <description>The Modern Ink&amp;rsquo;s been working with the team at Two Bulls to bring their unique parks platform app to Android.
 The app aims to stay true to the My Parx branding, provide all of the features of it&amp;rsquo;s iOS counter part whilst still maintaining a natively Android user experience.
 So what&amp;rsquo;s My Parx all about? My Parx helps you find and explore parks that interest you. Discover the secrets of your favourite parks through exploring up-to-date information, interactive maps, and personal guided tours - produced by those who know the parks best.</description>
@@ -171,10 +171,10 @@ So what&amp;rsquo;s My Parx all about? My Parx helps you find and explore parks
     
     <item>
       <title>App Design of Instagram for Android</title>
-      <link>https://www.themodernink.com/app-design-of-instagram-for-android/</link>
+      <link>http://www.themodernink.com/app-design-of-instagram-for-android/</link>
       <pubDate>Thu, 05 Apr 2012 07:50:02 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/app-design-of-instagram-for-android/</guid>
+      <guid>http://www.themodernink.com/app-design-of-instagram-for-android/</guid>
       <description>Instagram. Over 27 million users and Apples App Store App of the Year for 2011.
 Yesterday, after much anticipation by many Android users, Instagram for Android was released and has already clocked over one million downloads. That&amp;rsquo;s not surprising given the popularity of the photo sharing social network, previously exclusive to the iPhone.
 With so much anticipation and buzz surrounding the release, including myself signing up for email notifications pre-release, I was naturally excited to hit Google Play and see what the developers and designers at Instagram had put together.</description>
@@ -182,10 +182,10 @@ With so much anticipation and buzz surrounding the release, including myself sig
     
     <item>
       <title>Vodafone Usage gets Prepaid</title>
-      <link>https://www.themodernink.com/vodafone-usage-gets-prepaid/</link>
+      <link>http://www.themodernink.com/vodafone-usage-gets-prepaid/</link>
       <pubDate>Tue, 13 Dec 2011 02:05:21 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/vodafone-usage-gets-prepaid/</guid>
+      <guid>http://www.themodernink.com/vodafone-usage-gets-prepaid/</guid>
       <description>If you are a Vodafone Prepaid user with an Android phone, then the day as come. Tonight we have released the initial version of Vodafone Usage with support for Prepaid recharges.
 Initial support for Prepaid is for &amp;ldquo;Flexi Cap&amp;rdquo; and &amp;ldquo;All-Time&amp;rdquo; recharges only. As this is a brand new feature please report any issues via email so we can fix them quick.
 Be sure to set your account type to Prepaid in the settings and you are ready to go.</description>
@@ -193,10 +193,10 @@ Be sure to set your account type to Prepaid in the settings and you are ready to
     
     <item>
       <title>The AdGives Experiment</title>
-      <link>https://www.themodernink.com/the-adgives-experiment/</link>
+      <link>http://www.themodernink.com/the-adgives-experiment/</link>
       <pubDate>Tue, 13 Dec 2011 02:05:05 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/the-adgives-experiment/</guid>
+      <guid>http://www.themodernink.com/the-adgives-experiment/</guid>
       <description>Tonight we are pleased to announce the launch of our new project AdGives.
 AdGives is online advertising mixed with social activism. Part of the profit from every ad click is donated to charity.
 It’s all going to kick off soon with a trial we’re calling The AdGives Experiment. The site explains it best, so rather than repeating myself why don’t you check it out?
@@ -206,10 +206,10 @@ The goal is big. To change the business model of online advertising so that the 
     
     <item>
       <title>Vodafone Usage 1.4 Released</title>
-      <link>https://www.themodernink.com/vodafone-usage-1-4-released/</link>
+      <link>http://www.themodernink.com/vodafone-usage-1-4-released/</link>
       <pubDate>Tue, 13 Dec 2011 02:04:40 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/vodafone-usage-1-4-released/</guid>
+      <guid>http://www.themodernink.com/vodafone-usage-1-4-released/</guid>
       <description>Tonight we&amp;rsquo;ve released a long awaited update to Vodafone Usage and Vodafone Usage plus.
 Changes include maintenance to the connection library to fix errors and improve stability when connecting to Vodafone. This should fix a lot of connection errors people were experiencing as well as the incorrect error stating that the username and password were wrong.
 Also a new feature has been added (only for Plus users) allowing for widget look and feel customisation, including the background (dark or transparent) and the text colour.</description>
@@ -217,10 +217,10 @@ Also a new feature has been added (only for Plus users) allowing for widget look
     
     <item>
       <title>Vodafone Usage - Ausdroid App Review</title>
-      <link>https://www.themodernink.com/vodafone-usage-ausdroid-app-review/</link>
+      <link>http://www.themodernink.com/vodafone-usage-ausdroid-app-review/</link>
       <pubDate>Tue, 13 Dec 2011 02:04:23 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/vodafone-usage-ausdroid-app-review/</guid>
+      <guid>http://www.themodernink.com/vodafone-usage-ausdroid-app-review/</guid>
       <description>The good folks over at Ausdroid have released a review of Vodafone Usage (free and plus versions). If you&amp;rsquo;re interested in our app but would like to hear a bit more about it follow the link below to check it out.
 http://ausdroid.net/2011/03/07/app-review-vodafone-usage//o:p
 Big thanks to Chris and Buzz over at Ausdroid for featuring our app, and for their continued support of Aussie apps./o:p
@@ -229,30 +229,30 @@ The Modern Ink./o:p</description>
     
     <item>
       <title>Android Market Online</title>
-      <link>https://www.themodernink.com/android-market-online/</link>
+      <link>http://www.themodernink.com/android-market-online/</link>
       <pubDate>Tue, 13 Dec 2011 02:04:04 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/android-market-online/</guid>
+      <guid>http://www.themodernink.com/android-market-online/</guid>
       <description>Sorry for the very long delay in posting this. I&amp;rsquo;ve been busy working on an exciting new project for themodernink. More info on that to come soon&amp;hellip; but first&amp;hellip;.
 Recently, Google released the new Android Market website, enabling users to search and install games and applications via the web. No cables needed. Selecting an app on the website will simply notify your phone to start the download via the Market app on your phone.</description>
     </item>
     
     <item>
       <title>Movember Promotion Ends</title>
-      <link>https://www.themodernink.com/movember-promotion-ends/</link>
+      <link>http://www.themodernink.com/movember-promotion-ends/</link>
       <pubDate>Tue, 13 Dec 2011 02:03:33 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/movember-promotion-ends/</guid>
+      <guid>http://www.themodernink.com/movember-promotion-ends/</guid>
       <description>Today brings the start of summer, and with it the end of our Movember Vodafone Usage promotion.
 We are please to announce that sales of Vodafone Usage Plus, for the month of November, have come to $179.40. We thank everyone who has purchased the app over the month, and thank you for supporting a great cause. Also a big congratulations to all the mo bro&amp;rsquo;s around Australia who grew a moustache over the month to raise money and awareness.</description>
     </item>
     
     <item>
       <title>Vodafone Account Locked</title>
-      <link>https://www.themodernink.com/vodafone-account-locked/</link>
+      <link>http://www.themodernink.com/vodafone-account-locked/</link>
       <pubDate>Tue, 13 Dec 2011 02:02:52 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/vodafone-account-locked/</guid>
+      <guid>http://www.themodernink.com/vodafone-account-locked/</guid>
       <description>Some Vodafone Usage users have reported that their Vodafone online accounts have been locked, rendering the app itself useless, but also stopping users from logging into myvodafone to do other functions such as pay a bill. Today my account was also locked by Vodafone.
 The following is the processed I followed in order to get my password reset and the account opened.
 When attempting to login to the site the following error is presented :</description>
@@ -260,10 +260,10 @@ When attempting to login to the site the following error is presented :</descrip
     
     <item>
       <title>Vodafone Usage v1.2.1</title>
-      <link>https://www.themodernink.com/vodafone-usage-v1-2-1/</link>
+      <link>http://www.themodernink.com/vodafone-usage-v1-2-1/</link>
       <pubDate>Tue, 13 Dec 2011 02:02:47 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/vodafone-usage-v1-2-1/</guid>
+      <guid>http://www.themodernink.com/vodafone-usage-v1-2-1/</guid>
       <description>RELEASE
 A minor update has been released tonight for both the free and plus version of Vodafone Usage. All current users are recommended to install the update.
 The release includes a change to HTTP protocol settings in an attempt to improve connection stability. The myvodafone.com.au website, from where the application sources it&amp;rsquo;s usage data, is fairly unstable, however some minor tweaks have been made to try to improve things on our side.</description>
@@ -271,10 +271,10 @@ The release includes a change to HTTP protocol settings in an attempt to improve
     
     <item>
       <title>Movember Charity Promotion</title>
-      <link>https://www.themodernink.com/movember-charity-promotion/</link>
+      <link>http://www.themodernink.com/movember-charity-promotion/</link>
       <pubDate>Tue, 13 Dec 2011 02:02:42 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/movember-charity-promotion/</guid>
+      <guid>http://www.themodernink.com/movember-charity-promotion/</guid>
       <description>Ladies and Gentlemen,/o:p
 The Modern Ink is pleased to announce a new promotion running for the entire month of Movember (formally November)./o:p
 For this month, all profit made from the sale of our app, Vodafone Usage Plus, will be donated to the Movember charity. /o:p
@@ -283,40 +283,40 @@ If you are unaware, Movember is a month long event held around the world where m
     
     <item>
       <title>More myvodafone.com.au website outages</title>
-      <link>https://www.themodernink.com/more-myvodafone-com-au-website-outages-2/</link>
+      <link>http://www.themodernink.com/more-myvodafone-com-au-website-outages-2/</link>
       <pubDate>Tue, 13 Dec 2011 02:02:33 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/more-myvodafone-com-au-website-outages-2/</guid>
+      <guid>http://www.themodernink.com/more-myvodafone-com-au-website-outages-2/</guid>
       <description>Just a quick not to all those who have been experiencing connection errors using the Vodafone Usage app that there has been loads of errors and periods of down time on the myvodafone web site.
 Obviously this is completely out of our control but it does mean that the app is not presenting the most up to date data. We recommend increasing the frequency of your automatic updates so you can hopefully get your usage during a period when the Vodafone site is working.</description>
     </item>
     
     <item>
       <title>More myvodafone.com.au website outages</title>
-      <link>https://www.themodernink.com/more-myvodafone-com-au-website-outages/</link>
+      <link>http://www.themodernink.com/more-myvodafone-com-au-website-outages/</link>
       <pubDate>Tue, 13 Dec 2011 02:02:00 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/more-myvodafone-com-au-website-outages/</guid>
+      <guid>http://www.themodernink.com/more-myvodafone-com-au-website-outages/</guid>
       <description>Just a quick not to all those who have been experiencing connection errors using the Vodafone Usage app that there has been loads of errors and periods of down time on the myvodafone web site.
 Obviously this is completely out of our control but it does mean that the app is not presenting the most up to date data. We recommend increasing the frequency of your automatic updates so you can hopefully get your usage during a period when the Vodafone site is working.</description>
     </item>
     
     <item>
       <title>Vodafone Usage v1.2</title>
-      <link>https://www.themodernink.com/vodafone-usage-v1-2/</link>
+      <link>http://www.themodernink.com/vodafone-usage-v1-2/</link>
       <pubDate>Tue, 13 Dec 2011 02:00:37 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/vodafone-usage-v1-2/</guid>
+      <guid>http://www.themodernink.com/vodafone-usage-v1-2/</guid>
       <description>An update to both Plus and Free versions has been released.
 The key new feature released only for Plus version users, are warning notifications with customisable warning levels. Users now have the ability via the settings menu to enable notifications. These notifications will appear in your notifications area when usage data is updated (either via a background update or the application itself) and the percentage used is equal to or over the selected warning level.</description>
     </item>
     
     <item>
       <title>Vodafone Usage Plus Available</title>
-      <link>https://www.themodernink.com/vodafone-usage-plus-available/</link>
+      <link>http://www.themodernink.com/vodafone-usage-plus-available/</link>
       <pubDate>Tue, 13 Dec 2011 01:58:55 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/vodafone-usage-plus-available/</guid>
+      <guid>http://www.themodernink.com/vodafone-usage-plus-available/</guid>
       <description>A new version of Vodafone Usage is available on the Android market which brings about a number of exciting changes.
 The app is now available in two editions.
  Vodafone Usage Plus
@@ -327,10 +327,10 @@ The advertising supported free edition previously available on the market.</desc
     
     <item>
       <title>Vodafone Usage Australia v1.0.1</title>
-      <link>https://www.themodernink.com/vodafone-usage-australia-v1-0-1/</link>
+      <link>http://www.themodernink.com/vodafone-usage-australia-v1-0-1/</link>
       <pubDate>Tue, 13 Dec 2011 01:58:12 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/vodafone-usage-australia-v1-0-1/</guid>
+      <guid>http://www.themodernink.com/vodafone-usage-australia-v1-0-1/</guid>
       <description>I released a small update to Vodafone Usage Australia today fixing a few critical issues causing grief for people on specific plans. Thanks to the people who helped me work these ones out.
 As before you can find this app on the Android Market (just search Vodafone Usage)
 or scan the 2D bar code below with your phone.
@@ -342,10 +342,10 @@ Change Details:
     
     <item>
       <title>Vodafone Usage Australia Released</title>
-      <link>https://www.themodernink.com/vodafone-usage-australia-released/</link>
+      <link>http://www.themodernink.com/vodafone-usage-australia-released/</link>
       <pubDate>Tue, 13 Dec 2011 01:56:42 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/vodafone-usage-australia-released/</guid>
+      <guid>http://www.themodernink.com/vodafone-usage-australia-released/</guid>
       <description>The Modern Ink is pleased to announce the release of its first Android application.
 Vodafone Usage Australia
 The essential application Vodafone Android customers have been waiting so long for is now available for download from the Android Market. Managing your mobile phone usage is now simple and painless. Bills will be reduced, usage will go unwasted, Vodafone will get mad :)
