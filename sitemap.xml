@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.themodernink.com/manager-readme/</loc>
+    <lastmod>2019-04-01T05:15:43+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.themodernink.com/etsy-local-goes-mobile/</loc>
     <lastmod>2015-09-01T05:15:43+00:00</lastmod>
   </url>
@@ -181,7 +186,7 @@
   
   <url>
     <loc>http://www.themodernink.com/</loc>
-    <lastmod>2015-09-01T05:15:43+00:00</lastmod>
+    <lastmod>2019-04-01T05:15:43+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -193,7 +198,7 @@
   
   <url>
     <loc>http://www.themodernink.com/categories/general/</loc>
-    <lastmod>2015-09-01T05:15:43+00:00</lastmod>
+    <lastmod>2019-04-01T05:15:43+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -215,7 +220,7 @@
   
   <url>
     <loc>http://www.themodernink.com/post/</loc>
-    <lastmod>2015-09-01T05:15:43+00:00</lastmod>
+    <lastmod>2019-04-01T05:15:43+00:00</lastmod>
     <priority>0</priority>
   </url>
   
