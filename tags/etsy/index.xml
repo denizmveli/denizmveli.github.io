@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Etsy on Deniz Veli | The Modern Ink</title>
-    <link>https://www.themodernink.com/tags/etsy/</link>
+    <link>https://themodernink.com/tags/etsy/</link>
     <description>Recent content in Etsy on Deniz Veli | The Modern Ink</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Deniz Veli 2019</copyright>
     <lastBuildDate>Tue, 01 Sep 2015 05:15:43 +0000</lastBuildDate>
     
-	<atom:link href="https://www.themodernink.com/tags/etsy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://themodernink.com/tags/etsy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Etsy Local Goes Mobile</title>
-      <link>https://www.themodernink.com/etsy-local-goes-mobile/</link>
+      <link>https://themodernink.com/etsy-local-goes-mobile/</link>
       <pubDate>Tue, 01 Sep 2015 05:15:43 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/etsy-local-goes-mobile/</guid>
+      <guid>https://themodernink.com/etsy-local-goes-mobile/</guid>
       <description>Last week my anxiety and anticipation was building, as a whole lot of work from a great team of individuals I lead at Etsy was just about to be released to the world. And that feeling is exactly what I get out of bed and go to work for.
 And then we launched the all new Etsy Local home screen tab on the Etsy app the iOS and Android!
 With Etsy Local you can find Etsy items and sellers near you, at events like pop-ups, craft fairs, and flea markets or local shops.</description>
@@ -25,20 +25,20 @@ With Etsy Local you can find Etsy items and sellers near you, at events like p
     
     <item>
       <title>Beautiful Android Design</title>
-      <link>https://www.themodernink.com/beautiful-android-design/</link>
+      <link>https://themodernink.com/beautiful-android-design/</link>
       <pubDate>Sat, 28 Dec 2013 07:04:43 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/beautiful-android-design/</guid>
+      <guid>https://themodernink.com/beautiful-android-design/</guid>
       <description>I&amp;rsquo;m super excited and very honored that Google recently placed our latest Etsy Android app on a very short list of the best Android apps released this season.
 You can read more over on the Android Developers blog and if you haven&amp;rsquo;t yet been shopping on the new Etsy for Android app on your tablet or phone, this might be just the reminder you need.</description>
     </item>
     
     <item>
       <title>Etsy Android Staggered Grid</title>
-      <link>https://www.themodernink.com/etsy-android-staggered-grid/</link>
+      <link>https://themodernink.com/etsy-android-staggered-grid/</link>
       <pubDate>Fri, 27 Dec 2013 22:13:24 +0000</pubDate>
       
-      <guid>https://www.themodernink.com/etsy-android-staggered-grid/</guid>
+      <guid>https://themodernink.com/etsy-android-staggered-grid/</guid>
       <description>Last week at Etsy we open sourced the staggered grid view from the new Etsy Android app. Somewhat surprisingly there&amp;rsquo;s been a large amount of interest from the Android community. I guess I shouldn&amp;rsquo;t be surprised. Whilst working on various apps I&amp;rsquo;ve found it challenging to implement advanced UI elements such as the staggered or masonry grid.
 Thankfully I had the opportunity during a recent project at Etsy to implement this grid view that would support advanced features such as rows of varying heights &amp;amp; syncing row positions across orientation changes.</description>
     </item>
