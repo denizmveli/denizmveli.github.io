@@ -396,6 +396,132 @@ section.success a.active {
     }
 }
 
+/* Homepage section rhythm and visual separation */
+.section-home {
+    padding-top: 110px;
+    padding-bottom: 110px;
+    scroll-margin-top: 110px;
+}
+
+.section-home .container {
+    max-width: 980px;
+}
+
+.section-hero {
+    padding-top: 150px;
+    background: #ffffff;
+}
+
+.section-services {
+    background: #f8fafc;
+    border-top: 1px solid #e8edf2;
+    border-bottom: 1px solid #e8edf2;
+}
+
+.section-proof {
+    background: #ffffff;
+}
+
+.section-engagement {
+    background: #f8fafc;
+    border-top: 1px solid #e8edf2;
+    border-bottom: 1px solid #e8edf2;
+}
+
+.section-contact {
+    background: #ffffff;
+}
+
+.section-home .title {
+    margin-bottom: 18px;
+}
+
+.section-home .lead {
+    margin: 0 auto 0;
+    max-width: 900px;
+    line-height: 1.45;
+}
+
+.section-header {
+    margin-bottom: 42px;
+}
+
+.section-header p:last-child {
+    margin-bottom: 0;
+}
+
+.cta-row {
+    margin-top: 30px;
+}
+
+.cta-row .btn {
+    margin: 6px 8px;
+    min-width: 230px;
+}
+
+.cta-row .btn-default {
+    border: 1px solid #2c3e50;
+}
+
+.card-grid {
+    margin-top: 8px;
+}
+
+.service-card {
+    margin-bottom: 18px;
+}
+
+.service-card h3 {
+    margin-top: 16px;
+}
+
+.service-icon {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.service-icon svg {
+    width: 52px;
+    height: 52px;
+    fill: none;
+    stroke: #2c3e50;
+    stroke-width: 2.25;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.section-proof ul {
+    margin: 0;
+    padding-left: 26px;
+}
+
+.section-proof li {
+    margin-bottom: 14px;
+    line-height: 1.45;
+}
+
+@media(max-width:767px) {
+    .section-home {
+        padding-top: 82px;
+        padding-bottom: 82px;
+        scroll-margin-top: 82px;
+    }
+
+    .section-hero {
+        padding-top: 112px;
+    }
+
+    .section-header {
+        margin-bottom: 30px;
+    }
+
+    .cta-row .btn {
+        width: 100%;
+        min-width: 0;
+    }
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;

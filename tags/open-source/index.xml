@@ -1,3 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Open Source on Deniz Veli | The Modern Ink</title><link>https://themodernink.com/tags/open-source/</link><description>Recent content in Open Source on Deniz Veli | The Modern Ink</description><generator>Hugo</generator><language>en</language><copyright>&amp;copy; Deniz Veli 2019</copyright><lastBuildDate>Fri, 27 Dec 2013 22:13:24 +0000</lastBuildDate><atom:link href="https://themodernink.com/tags/open-source/index.xml" rel="self" type="application/rss+xml"/><item><title>Etsy Android Staggered Grid</title><link>https://themodernink.com/etsy-android-staggered-grid/</link><pubDate>Fri, 27 Dec 2013 22:13:24 +0000</pubDate><guid>https://themodernink.com/etsy-android-staggered-grid/</guid><description>&lt;p&gt;Last week at Etsy we open sourced the staggered grid view from the new Etsy Android app. Somewhat surprisingly there&amp;rsquo;s been a large amount of interest from the Android community. I guess I shouldn&amp;rsquo;t be surprised. Whilst working on various apps I&amp;rsquo;ve found it challenging to implement advanced UI elements such as the staggered or masonry grid.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://github-camo.global.ssl.fastly.net/a243ad5c2788730c40fc1d348e5ed85adb59c484/687474703a2f2f662e636c2e6c792f6974656d732f327a31423059304d3047304f326b316c334a30332f5472656e64696e672e706e67" alt=""&gt;&lt;/p&gt;
-&lt;p&gt;Thankfully I had the opportunity during a recent project at Etsy to implement this grid view that would support advanced features such as rows of varying heights &amp;amp; syncing row positions across orientation changes. Before deciding to develop the grid, we did of course evaluate existing options available including the unfinished StaggeredGridView in the AOSP source. In the end we came to the conclusion that if we were going to build something stable, reliable and performant it was a necessity to understand the entire scope of how the grid functioned and to achieve that we decided to develop a new component.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Deniz Veli | The Modern Ink</title>
+    <link>https://themodernink.com/tags/open-source/</link>
+    <description>Recent content in Open Source on Deniz Veli | The Modern Ink</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Deniz Veli 2026</copyright>
+    <lastBuildDate>Fri, 27 Dec 2013 22:13:24 +0000</lastBuildDate>
+    <atom:link href="https://themodernink.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Etsy Android Staggered Grid</title>
+      <link>https://themodernink.com/etsy-android-staggered-grid/</link>
+      <pubDate>Fri, 27 Dec 2013 22:13:24 +0000</pubDate>
+      <guid>https://themodernink.com/etsy-android-staggered-grid/</guid>
+      <description>&lt;p&gt;Last week at Etsy we open sourced the staggered grid view from the new Etsy Android app. Somewhat surprisingly there&amp;rsquo;s been a large amount of interest from the Android community. I guess I shouldn&amp;rsquo;t be surprised. Whilst working on various apps I&amp;rsquo;ve found it challenging to implement advanced UI elements such as the staggered or masonry grid.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://github-camo.global.ssl.fastly.net/a243ad5c2788730c40fc1d348e5ed85adb59c484/687474703a2f2f662e636c2e6c792f6974656d732f327a31423059304d3047304f326b316c334a30332f5472656e64696e672e706e67&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Thankfully I had the opportunity during a recent project at Etsy to implement this grid view that would support advanced features such as rows of varying heights &amp;amp; syncing row positions across orientation changes. Before deciding to develop the grid, we did of course evaluate existing options available including the unfinished StaggeredGridView in the AOSP source. In the end we came to the conclusion that if we were going to build something stable, reliable and performant it was a necessity to understand the entire scope of how the grid functioned and to achieve that we decided to develop a new component.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
